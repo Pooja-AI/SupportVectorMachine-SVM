@@ -1,1 +1,1 @@
-# SupportVectorMachine-SVM-
+# SupportVectorMachine-SVM
